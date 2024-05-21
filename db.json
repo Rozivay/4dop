@@ -1,0 +1,32 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "title": "CAN CANDLE",
+        "description": "Fragrances, Incense, Packaging",
+        "price": "$20.00",
+        "image": "https://askka.qodeinteractive.com/wp-content/uploads/2021/05/shop-featured.png"
+      },
+      {
+        "id": 2,
+        "title": "WOOD CANDLE",
+        "description": "Fragrances, Incense, Packaging",
+        "price": "$20.00",
+        "image": "https://askka.qodeinteractive.com/wp-content/uploads/2021/05/shop-featured.jpg"
+      },
+{
+    "id": 3,
+        "title": "GIFT  CANDLE",
+        "description": "Fragrances, Incense, Packaging",
+        "price": "$20.00",
+        "image": "https://askka.qodeinteractive.com/wp-content/uploads/2021/05/shop-test-1.jpg"
+},
+{
+    "id": 4,
+        "title": "DREAM  CANDLE",
+        "description": "Fragrances, Incense, Packaging",
+        "price": "$20.00",
+        "image": "https://askka.qodeinteractive.com/wp-content/uploads/2021/05/shop-img-216.jpg"
+}
+    ]
+  }
