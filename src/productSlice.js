@@ -1,6 +1,5 @@
 import { createSlice, createAsyncThunk } from '@reduxjs/toolkit';
 
-// Асинхронный экшен для получения данных о продуктах
 export const fetchProducts = createAsyncThunk('products/fetchProducts', async () => {
   const response = await fetch('http://localhost:5000/products');
   const data = await response.json();
